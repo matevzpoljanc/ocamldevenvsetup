@@ -12,5 +12,5 @@ eval `opam config env`
 
 ocamlfind list
 
-ocamlfind ocamlc -o test -package ounit -linkpkg -g main.ml test.ml
+ocamlfind ocamlc -o test -package oUnit -linkpkg -g main.ml test.ml
 ./test
