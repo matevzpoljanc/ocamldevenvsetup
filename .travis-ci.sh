@@ -10,7 +10,7 @@ opam init
 opam install ${OPAM_DEPENDS}
 eval `opam config env`
 
-ocamlfind list
+#ocamlfind list
 
 ocamlfind ocamlc -o test -package oUnit -linkpkg -g main.ml test.ml
 ./test
