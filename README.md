@@ -1,2 +1,2 @@
 # ocamldevenvsetup
-![alt text]https://travis-ci.org/matevzpoljanc/ocamldevenvsetup.svg?branch=master
+![Travis CI badge](https://travis-ci.org/matevzpoljanc/ocamldevenvsetup.svg?branch=master)
